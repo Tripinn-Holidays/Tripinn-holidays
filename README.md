@@ -51,7 +51,7 @@ We aim to build our systems with scalability, maintainability, security, and per
 
 The technical development and engineering of TripInn Holidays is handled by our in-house developer:
 
-### Guna
+### Gunal
 
 **Developer — TripInn Holidays**
 
